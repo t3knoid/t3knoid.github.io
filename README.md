@@ -17,12 +17,6 @@ This repository powers the public site at **https://portfolio.refol.us**, servin
 
 ---
 
-Here is an updated **README.md** section that cleanly documents the purpose and role of the **CNAME** file in your `t3knoid.github.io` repository. It fits naturally into the existing structure and keeps the concise, modular style you prefer.
-
-You can paste this directly into your README under a new section titled **Custom Domain Configuration**.
-
----
-
 ## 🌐 Custom Domain Configuration (CNAME)
 
 This repository includes a `CNAME` file that defines the **custom domain** served by GitHub Pages. The file contains a single line with the domain name:
